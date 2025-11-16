@@ -1,2 +1,2 @@
-# light-apps
+# Lite Apps
 Android apps but lighter.
