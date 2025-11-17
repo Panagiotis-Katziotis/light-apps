@@ -1,2 +1,2 @@
 # Lite Apps
-Android apps but lighter.
+Android web apps but lighter.
